@@ -1,15 +1,15 @@
-# Clean-Swift-Templates
-**Clean Swift Templates Linted for Swift Lint**
+To learn more about Clean Swift and the VIP cycle, read:
 
----
-* Original files from : http://clean-swift.com/clean-swift-ios-architecture
+http://clean-swift.com/clean-swift-ios-architecture
 
-* To learn more about Clean Swift and the VIP cycle, read : https://github.com/Clean-Swift/CleanStore
+There is a sample app available at:
 
-* To install the Clean Swift Xcode templates, run:
+https://github.com/Clean-Swift/CleanStore
 
-	> make install_templates
+To install the Clean Swift Xcode templates, run:
 
-* To uninstall the Clean Swift Xcode templates, run:
+> make install_templates
 
-	> make uninstall_templates
+To uninstall the Clean Swift Xcode templates, run:
+
+> make uninstall_templates
